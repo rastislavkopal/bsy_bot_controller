@@ -3,7 +3,7 @@ import requests
 
 GIST_BASE_URL = "https://api.github.com/gists"
 
-AUTH_TOKEN = "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"
+AUTH_TOKEN = "your-git-token"
 AUTH_HEADER = {"Authorization": f"Bearer {AUTH_TOKEN}"}
 
 COMMANDS = [
